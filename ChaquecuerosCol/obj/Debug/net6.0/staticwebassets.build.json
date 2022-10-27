@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2rjuPpNJrIQnWOC9VBjOgUH9Ud+9oe82BWb54Xpge6s=",
+  "Hash": "D7+AUWayZLI+sI29he90QUeMG3Ub1mM4XOocYLtJLdM=",
   "Source": "ChaquecuerosCol",
   "BasePath": "_content/ChaquecuerosCol",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\ChaquecuerosCol\\ChaquecuerosCol\\wwwroot\\images\\c1.jpg",
+      "SourceId": "ChaquecuerosCol",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\ChaquecuerosCol\\ChaquecuerosCol\\wwwroot\\",
+      "BasePath": "_content/ChaquecuerosCol",
+      "RelativePath": "images/c1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\c1.jpg"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\ChaquecuerosCol\\ChaquecuerosCol\\wwwroot\\js\\site.js",

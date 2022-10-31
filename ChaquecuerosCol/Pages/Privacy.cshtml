@@ -1,8 +1,113 @@
 ﻿@page
 @model PrivacyModel
 @{
-    ViewData["Title"] = "Privacy Policy";
+    ViewData["Title"] = "SOBRE NOSOTROS";
 }
-<h1>@ViewData["Title"]</h1>
+<style>
+.titulo1 {
+  position: absolute;
+  left: 3%;
+  top: 14%;
+  color: black;
+}
 
-<p>Use this page to detail your site's privacy policy.</p>
+.linea1  
+{  
+width: 15%; 
+height: 1%;  
+background-color:black;  
+border-radius: 50%/100px ;
+position: absolute;
+left: 3%;
+top:22%; 
+}  
+
+.nosotros{
+position: absolute;
+height: 60%;
+width: 39%;
+top: 26%;
+color: black;
+left: 3%;
+}
+.img1{
+    position: absolute;
+    left:55%;
+    top: 14%;
+    width: 40%;  
+    height: 40%
+ }
+
+ .titulo2{
+  position:absolute;
+  right: 3%;
+  top:120%;
+  color: black;
+ }
+
+.linea2{
+width: 15%; 
+height: 1%;  
+background-color:black;  
+border-radius: 50%/100px ;
+position: absolute;
+left: 82%;
+top:133%; 
+ }
+ .enfoque{
+position: absolute;
+height: 30%;
+width: 30%;
+top: 139%;
+color: black;
+left: 67%;
+}
+
+.img2{
+    position: absolute;
+    top: 120%;
+    left: 5%;
+    width: 40%;  
+    height: 60%
+
+}
+.main{
+
+    width : 90%;
+
+}
+body{
+
+  background-image:url(/images/back_nosotros1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+</style>
+
+<div class="main" >
+
+    <div>
+        <h1 class="titulo1">@ViewData["Title"]</h1>
+        <h3 class="nosotros">Somos una empresa dedicada al la compra y venta de chaquetas de cuero de la mas alta gama del mercado, somos importadores y exportadores de marcas nacionales. </h3>
+        <img class="img1" src="/images/logo_completo2.png"/>
+        <hr1 class="linea1">
+    </div>
+
+    <div>
+        <div>
+            <h1 align="right" class="titulo2">NUESTRO ENFOQUE</h1>
+        </div>
+        <h3 align="right" class="enfoque">En chaquecueros vemos la necesodad de aumentar la calidad y los dieños a nivel artesanal e indistrial.
+        Nuestro enfoque como empresa es liderar el mercado nacional de la venta de chaquetas de cuero y exportrar las masrcas nacionales para ser reconocidos en el exterior.  </h3>
+        <img class="img2" src="/images/chaquecueros.png"/>
+        <hr1 class="linea2">
+    </div>
+
+
+
+
+
+
+
+
+</div>

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\ChaquecuerosCol\\ChaquecuerosCol\\ChaquecuerosCol.csproj": {}
+    "C:\\Users\\david\\Downloads\\nuevos_full\\develop\\ChaquecuerosCol\\ChaquecuerosCol.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\ChaquecuerosCol\\ChaquecuerosCol\\ChaquecuerosCol.csproj": {
+    "C:\\Users\\david\\Downloads\\nuevos_full\\develop\\ChaquecuerosCol\\ChaquecuerosCol.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\ChaquecuerosCol\\ChaquecuerosCol\\ChaquecuerosCol.csproj",
+        "projectUniqueName": "C:\\Users\\david\\Downloads\\nuevos_full\\develop\\ChaquecuerosCol\\ChaquecuerosCol.csproj",
         "projectName": "ChaquecuerosCol",
-        "projectPath": "C:\\Users\\User\\Desktop\\ChaquecuerosCol\\ChaquecuerosCol\\ChaquecuerosCol.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\ChaquecuerosCol\\ChaquecuerosCol\\obj\\",
+        "projectPath": "C:\\Users\\david\\Downloads\\nuevos_full\\develop\\ChaquecuerosCol\\ChaquecuerosCol.csproj",
+        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\david\\Downloads\\nuevos_full\\develop\\ChaquecuerosCol\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

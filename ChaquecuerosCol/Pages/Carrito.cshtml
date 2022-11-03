@@ -1,0 +1,65 @@
+@page
+@model CarritoModel
+@{
+    ViewData["Title"] = "Carrito";
+}
+
+<style>
+    .content{
+        width: 90%;
+        margin-left: 5%;
+    }
+
+    .tabla{
+        width: 100%;
+    }
+
+    .descrip_carrito{
+        display: flex;
+    }
+
+    .imagen_carrito{
+        flex: 1;
+    }
+
+    .text_carrito{
+        flex: 1;
+    }
+
+</style>
+
+<div class="content">
+    <div class="tabla">
+        <table>
+            <tr>
+                <td>Mi carrito (2)</td>
+                <td>Precio</td>
+                <td>Cantidad</td>
+                <td>Total</td>
+            </tr>
+            <tr>
+                <td>
+                    <div class="descrip_carrito">
+                        <div class="imagen_carrito">
+                            <img src="/images/c1.jpg" alt='imagen' />
+                        </div>
+                        <div class="text_carrito">
+                            <h3>Chaqueta cuero versace</h3>
+                            <h5>Peso: 2Kg</h5>
+                            <h5>Eliminar</h5>
+                        </div>
+                    </div>
+                </td>
+                <td>
+                    <h3>1000 US</h3>
+                </td>
+                <td>
+                    <h3>1</h3>
+                </td>
+                <td>
+                    <h3>1000</h3>
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>

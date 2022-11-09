@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4VRC/Z3ZbTsHRLJ4G9fHLoAgDgBFwLcpaX6B1phj1QY=",
+  "Hash": "CGVrTW5bexpLH+iWeEKIuoat0tBjrUmW0amZF9ju3lk=",
   "Source": "ChaquecuerosCol",
   "BasePath": "_content/ChaquecuerosCol",
   "Mode": "Default",
@@ -102,12 +102,12 @@
       "OriginalItemSpec": "wwwroot\\images\\angel.png"
     },
     {
-      "Identity": "C:\\Users\\david\\Downloads\\nuevos_full\\develop\\ChaquecuerosCol\\wwwroot\\images\\back_nosotros.jpeg",
+      "Identity": "C:\\Users\\david\\Downloads\\nuevos_full\\develop\\ChaquecuerosCol\\wwwroot\\images\\back_inicio_carrito.jpeg",
       "SourceId": "ChaquecuerosCol",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\david\\Downloads\\nuevos_full\\develop\\ChaquecuerosCol\\wwwroot\\",
       "BasePath": "_content/ChaquecuerosCol",
-      "RelativePath": "images/back_nosotros.jpeg",
+      "RelativePath": "images/back_inicio_carrito.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,7 +116,24 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\back_nosotros.jpeg"
+      "OriginalItemSpec": "wwwroot\\images\\back_inicio_carrito.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\david\\Downloads\\nuevos_full\\develop\\ChaquecuerosCol\\wwwroot\\images\\back_nosotros1.png",
+      "SourceId": "ChaquecuerosCol",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\david\\Downloads\\nuevos_full\\develop\\ChaquecuerosCol\\wwwroot\\",
+      "BasePath": "_content/ChaquecuerosCol",
+      "RelativePath": "images/back_nosotros1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\back_nosotros1.png"
     },
     {
       "Identity": "C:\\Users\\david\\Downloads\\nuevos_full\\develop\\ChaquecuerosCol\\wwwroot\\images\\c1.jpg",

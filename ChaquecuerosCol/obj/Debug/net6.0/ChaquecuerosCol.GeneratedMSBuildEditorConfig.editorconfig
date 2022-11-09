@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\david\Downloads\nuevos_full\develop\ChaquecuerosCol
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/david/Downloads/nuevos_full/develop/ChaquecuerosCol/Pages/Carrito.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2Fycml0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/david/Downloads/nuevos_full/develop/ChaquecuerosCol/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -23,8 +27,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/david/Downloads/nuevos_full/develop/ChaquecuerosCol/Pages/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+[C:/Users/david/Downloads/nuevos_full/develop/ChaquecuerosCol/Pages/Nosotros.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm9zb3Ryb3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/david/Downloads/nuevos_full/develop/ChaquecuerosCol/Pages/Shared/_ValidationScriptsPartial.cshtml]
